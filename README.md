@@ -1,0 +1,2 @@
+# explain.how_to_install_windows_terminal.with_scoop
+Scoop を使って Windows Terminal をインストールする方法を説明します
